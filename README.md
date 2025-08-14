@@ -95,7 +95,3 @@ Another approach to identify fraudulent transactions is to look for outliers in 
 #### Identifying Outliers based on Standard Deviation
 
 ![anomalous_transaction](Images/anomalous_transaction.PNG)
-
-#### Identifying Outliers based on Interquartile Range
-
-![anomalous_transaction](Images/anomalous_transaction.PNG)
